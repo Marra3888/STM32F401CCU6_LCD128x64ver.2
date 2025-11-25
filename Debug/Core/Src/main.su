@@ -1,0 +1,9 @@
+../Core/Src/main.c:68:13:fb_clear	16	static
+../Core/Src/main.c:72:13:draw_time_date	104	static
+../Core/Src/main.c:107:13:draw_time_date_ru	120	static
+../Core/Src/main.c:137:13:draw_time_date_ru_full	104	static
+../Core/Src/main.c:171:5:main	8	static
+../Core/Src/main.c:244:6:SystemClock_Config	88	static
+../Core/Src/main.c:287:13:MX_RTC_Init	32	static
+../Core/Src/main.c:364:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:425:6:Error_Handler	4	static,ignoring_inline_asm

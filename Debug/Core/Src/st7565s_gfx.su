@@ -1,0 +1,12 @@
+../Core/Src/st7565s_gfx.c:114:6:GFX_DrawPixel	32	static
+../Core/Src/st7565s_gfx.c:123:6:GFX_DrawChar	40	static
+../Core/Src/st7565s_gfx.c:141:6:GFX_DrawString	40	static
+../Core/Src/st7565s_gfx.c:152:5:GFX_TextWidth	24	static
+../Core/Src/st7565s_gfx.c:162:6:GFX_DrawCharScaled	56	static
+../Core/Src/st7565s_gfx.c:183:6:GFX_DrawStringScaled	40	static
+../Core/Src/st7565s_gfx.c:210:6:GFX_DrawGlyph6x8	56	static
+../Core/Src/st7565s_gfx.c:229:20:utf8_next	24	static
+../Core/Src/st7565s_gfx.c:245:13:ru_to_ascii_lookalike	16	static
+../Core/Src/st7565s_gfx.c:279:13:draw_ru_cap_custom	32	static
+../Core/Src/st7565s_gfx.c:297:6:GFX_DrawStringUTF8_RU	56	static
+../Core/Src/st7565s_gfx.c:334:5:GFX_TextWidthUTF8_RU	32	static
